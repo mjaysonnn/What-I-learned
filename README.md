@@ -29,6 +29,24 @@
 
     System.out.println(ranNumber);
 
-
+> Shuffle로 중복을 없애준다
 > **Shuffle is used to remove the same number 
+
 <hr/>
+> ##클래스란 무엇인가     What is Class??? 
+
+> 클래스는 타입의 유형이다      Class is a type of data
+
+<hr/>
+
+> ## println을 할 때 일어나는 일         Things about println(a)
+
+> println을 하면 자동으로 toString()을 부른다
+
+
+> when you type that code
+> it automatically calls toString()
+
+<hr/>
+
+> ## 데이터의 타입에 따라서 참고하는 것이 다르다        Reference  depending on data types
