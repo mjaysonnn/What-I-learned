@@ -102,6 +102,8 @@
 
      ecllipse(width/4,height/5,width/4,height/4)
 
+> [Example of ecllipse] (https://mjsonblog.wordpress.com/2016/09/10/java-%ea%b3%b5%eb%b6%80)
+
 > Simple Principle can be explained ----> draw()--loop  setup()---initiate
 <hr/>
 
@@ -147,6 +149,8 @@
 
 > ##Inheritance from Coding
 
+> [Picture of Example] (https://mjsonblog.wordpress.com/2016/09/10/java-%ea%b3%b5%eb%b6%80)
+   
      public Student () {
      this("Student");
      System.out.print("#2 ");
@@ -175,6 +179,9 @@
 
 > you use interface when you wanna use a specific method.
 
+> ###Difference between Interface and abstract class
+
+[See] (https://mjsonblog.wordpress.com/2016/09/10/java-%ea%b3%b5%eb%b6%80)
 
 <hr/>
 
@@ -205,3 +212,9 @@
 >faster than Linear search 
 >logn
 >like binary tree divied by half
+
+<hr/>
+
+> ## Event Driven Programming Example
+
+[See] (https://mjsonblog.wordpress.com/2016/09/10/java-%ea%b3%b5%eb%b6%80)
