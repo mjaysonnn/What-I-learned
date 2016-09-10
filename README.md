@@ -6,7 +6,4 @@
 
 <hr/>
 
-> **This is can be wriiten without Git.**
-
-> **By doing this, i am learning MarkDown anyway.**
 
